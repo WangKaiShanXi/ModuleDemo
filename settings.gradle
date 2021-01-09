@@ -1,0 +1,5 @@
+include ':ShareModule'
+include ':LoginModule'
+include ':ShoppingModule'
+include ':app'
+rootProject.name = "ModuleDemo"
